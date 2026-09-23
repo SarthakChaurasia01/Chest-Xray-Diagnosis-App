@@ -4,7 +4,7 @@ This project uses a CNN model trained on chest X-rays to classify them as **Norm
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/<your-username>/xray-classifier.git
+git clone https://github.com/<SarthakChaurasia01>/xray-classifier.git
 cd xray-classifier
 pip install -r requirements.txt
 streamlit run app.py
